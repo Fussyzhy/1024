@@ -11,14 +11,10 @@
             "id": "7527725db32301e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "架构设计及分工.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "架构设计及分工"
+              "title": "新标签页"
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "架构设计及分工.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "架构设计及分工 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -112,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "架构设计及分工.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "架构设计及分工 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -138,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "架构设计及分工.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "架构设计及分工 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -162,6 +154,8 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "86b25179ac63c429",
-  "lastOpenFiles": []
+  "active": "7527725db32301e6",
+  "lastOpenFiles": [
+    "架构设计及分工.md"
+  ]
 }
