@@ -1,4 +1,4 @@
-![](./docs/assert/logo.jpg)
+![](./docs/assert/logo.svg)
 
 # 一、项目演示
 
