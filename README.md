@@ -127,6 +127,7 @@ java -jar gateway-service/target/gateway-service.jar
 ```
 
 # 四、项目架构
+[详细项目架构](https://github.com/LL1105/Gitgle/blob/master/docs/架构设计文档.pdf)
 
 Gitgle总体使用前后端分离架构，旨在通过前后端解藕实现并行开发，提升开发效率。
 
