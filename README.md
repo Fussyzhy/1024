@@ -2,9 +2,9 @@
 
 # 一、项目演示
 
-视频演示：
+视频演示：https://www.bilibili.com/video/BV1sDDSYSEw8/?vd_source=9910abaf8f354c2b432e475482f200eb
 
-公网访问地址：
+公网访问地址：http://1024.viwipiediema.com:10092/
 
 # 二、项目介绍
 
